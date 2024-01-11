@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "229279097522",
+    "firebase_url": "https://binifiy-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "binifiy",
+    "storage_bucket": "binifiy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229279097522:android:5f3f267160c7fbb2aadfab",
+        "android_client_info": {
+          "package_name": "com.example.binify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlCYUyzo9ZnIrYaSD5g6QJBw3G4FKER-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
